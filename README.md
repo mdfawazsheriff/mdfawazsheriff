@@ -277,33 +277,29 @@ A web platform project focused on digital presence, service discovery and custom
 
 <h2 align="center">◈ GITHUB TRANSMISSION</h2>
 
+
+<h2 align="center">◈ GITHUB TRANSMISSION</h2>
+
 <p align="center">
-<i>A live visual record of public repository contributions and development activity.</i>
+  <i>Live contribution history · Engineering activity</i>
 </p>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdfawazsheriff&bg_color=080817&color=00F5FF&line=FF00A8&point=FFFFFF&area=true&area_color=8A2BE2&hide_border=true&custom_title=FAWAZ%20%2F%2F%20CONTRIBUTION%20SIGNAL" />
+<img
+  width="100%"
+  src="https://ghchart.xqsit94.in/dark:default/mdfawazsheriff"
+  alt="Mohammed Fawaz Sheriff's GitHub contribution calendar"
+/>
 
-<br/><br/>
+<br/>
 
-<img width="100%" src="https://ghchart.rshah.org/00F5FF/mdfawazsheriff" alt="GitHub contribution calendar" />
-
-<br/><br/>
-
-<a href="https://github.com/mdfawazsheriff?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
+<a href="https://github.com/mdfawazsheriff">
+  <img src="https://img.shields.io/badge/VIEW_GITHUB_ACTIVITY-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 </div>
 
-<sub>Contribution visualizations depend on GitHub's public activity data and third-party services. They may not include private contributions or every type of development work.</sub>
-
----
-
-<h2 align="center">◈ ACADEMIC BACKGROUND</h2>
-
-<div align="center">
 
 ### B.TECH — ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
 
