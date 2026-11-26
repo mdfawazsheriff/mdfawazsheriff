@@ -1,12 +1,7 @@
 
-<!--
-  MOHAMMED FAWAZ SHERIFF
-  Personal Engineering Portfolio
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09131F,50:123B45,100:087F70&height=220&section=header&text=MOHAMMED%20FAWAZ%20SHERIFF&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20SOFTWARE%20%7C%20PRODUCTS&descSize=13&descAlignY=60&descColor=C0E7DE" alt="Fawaz engineering portfolio banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09131F,50:123B45,100:087F70&height=220&section=header&text=MOHAMMED%20FAWAZ%20SHERIFF&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20SOFTWARE%20%7C%20PRODUCTS&descSize=13&descAlignY=60&descColor=C0E7DE" alt="Fawaz engineering portfolio"/>
 
 # AI ENGINEER · PRODUCT BUILDER
 
@@ -26,26 +21,32 @@
 
 <br/><br/>
 
-[ABOUT](#-the-engineer) · [EXPERIENCE](#-experience) · [PROJECTS](#-selected-engineering-work) · [TECHNOLOGY](#-technology-stack) · [CONTACT](#-lets-connect)
+<a href="#the-engineer">ABOUT</a> ·
+<a href="#experience">EXPERIENCE</a> ·
+<a href="#selected-engineering-work">PROJECTS</a> ·
+<a href="#technology-stack">TECHNOLOGY</a> ·
+<a href="#lets-connect">CONTACT</a>
 
 </div>
 
 ---
 
-## 01 / THE ENGINEER
+## THE ENGINEER
 
-I'm a graduate in **Artificial Intelligence and Machine Learning** with an interest in building software that connects intelligent technology with real-world business needs.
+I'm a graduate in **Artificial Intelligence and Machine Learning**, interested in building software that connects intelligent technology with real-world business needs.
 
-I work across the intersection of:
+My interests and experience span AI-enabled application development, backend engineering, full-stack development and product innovation.
+
+I enjoy working across the technical and business sides of product development — understanding problems, translating requirements into solutions, developing applications and improving user experiences.
+
+### What I bring
 
 | ENGINEERING | PRODUCT | BUSINESS |
 |:---|:---|:---|
 | AI and ML applications | Problem identification | Requirements understanding |
 | Backend systems and APIs | Product development | Business-oriented thinking |
 | Full-stack applications | User experience | Technology integration |
-| Automation | Iterative development | Practical solutions |
-
-My approach is simple:
+| Intelligent automation | Iterative development | Practical solutions |
 
 > Understand the problem. Design the solution. Engineer the product. Test it. Improve it.
 
@@ -53,102 +54,7 @@ My approach is simple:
 
 ---
 
-## 02 / SELECTED ENGINEERING WORK
-
-<div align="center">
-
-### 01 — NEXUS CLIP
-
-**AI-ASSISTED VIDEO INTELLIGENCE PLATFORM**
-
-<a href="https://github.com/mdfawazsheriff/nexus-clip">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-A platform in development that aims to transform long-form videos into short-form content for creators, streamers and podcasters.
-
-**Engineering implementation — v0.1**
-
-| Component | Implementation |
-|:---|:---|
-| API layer | FastAPI health endpoint |
-| Video ingestion | Chunked uploads |
-| File handling | Extension validation and safe storage names |
-| Metadata | FFprobe extraction |
-| Audio processing | FFmpeg · 16 kHz mono WAV |
-| Transcription architecture | Provider-neutral interface |
-| Testing | Upload validation and storage-path unit tests |
-
-**Technology**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-
-**Engineering roadmap**
-
-- [x] Video upload and validation
-- [x] Media metadata extraction
-- [x] Audio extraction utility
-- [x] Transcription interface
-- [ ] Whisper transcription implementation
-- [ ] Context-aware moment detection
-- [ ] Clip scoring and boundary refinement
-- [ ] Vertical video rendering and subtitles
-- [ ] Browser-based editing studio
-
-<sub>Current status: engineering foundation. Roadmap items are not represented as completed capabilities.</sub>
-
----
-
-<div align="center">
-
-### 02 — SMARTLEDGER.AI
-
-**AI-POWERED MOBILE APPLICATION**
-
-</div>
-
-An AI-powered mobile application project developed in the context of my internship at Progton Software Pvt. Ltd.
-
-**My contribution**
-
-- Supported mobile application development.
-- Contributed to AI-powered application workflows.
-- Gained exposure to application development and deployment.
-
-**Technology focus:** Flutter · AI Application Development
-
----
-
-<div align="center">
-
-### 03 — JAWAHAR CONSULTANTS
-
-**FULL-STACK CONSULTANCY WEB PLATFORM**
-
-<a href="https://github.com/mdfawazsheriff/JawaharConsultants">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-A consultancy website project designed around service discovery, digital presence and customer enquiry workflows.
-
-**Technology**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/REST_API-009688?style=flat-square)
-
-**Focus:** Frontend development · Backend integration · REST APIs · Customer-facing web applications
-
----
-
-## 03 / EXPERIENCE
+## EXPERIENCE
 
 ### AI INTERN — PROGTON SOFTWARE PVT. LTD.
 
@@ -165,7 +71,114 @@ Contributed to the development of SmartLedger.AI mobile applications.
 
 ---
 
-## 04 / TECHNOLOGY STACK
+## SELECTED ENGINEERING WORK
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:102A32,100:087F70&height=3&section=header" alt="Section divider"/>
+
+# 01 — NEXUS CLIP
+
+### AI-ASSISTED VIDEO INTELLIGENCE PLATFORM
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY_IN_DEVELOPMENT-087F70?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VERSION-0.1-334155?style=for-the-badge"/>
+
+**Turning long-form content into short-form possibilities.**
+
+<a href="https://github.com/mdfawazsheriff/nexus-clip">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+NEXUS CLIP is an ongoing engineering project focused on helping streamers, podcasters and content creators transform long-form videos into short-form content.
+
+The long-term product direction includes video ingestion, speech transcription, intelligent moment discovery, clip generation and creator-controlled editing.
+
+### Engineering implementation — v0.1
+
+| Component | Implementation |
+|:---|:---|
+| API | FastAPI health endpoint |
+| Video ingestion | Chunked uploads |
+| File validation | Extension validation and safe storage names |
+| Metadata | FFprobe extraction |
+| Audio processing | FFmpeg · 16 kHz mono WAV |
+| Transcription architecture | Provider-neutral interface |
+| Testing | Upload validation and storage-path unit tests |
+
+### Technology
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
+### Development roadmap
+
+- [x] Video upload and validation foundation
+- [x] Media metadata extraction
+- [x] Audio extraction utility
+- [x] Transcription interface
+- [ ] Whisper transcription implementation
+- [ ] Transcript-aware candidate moment detection
+- [ ] Clip scoring and boundary refinement
+- [ ] Vertical video rendering and subtitles
+- [ ] Browser-based editing studio
+- [ ] Creator accounts and usage management
+
+**Current focus:** Expanding the engineering foundation toward an intelligent video processing workflow.
+
+<sub>Current status: engineering foundation. Planned capabilities are not represented as completed features.</sub>
+
+---
+
+<div align="center">
+
+# 02 — SMARTLEDGER.AI
+
+### AI-POWERED MOBILE APPLICATION
+
+</div>
+
+An AI-powered mobile application project developed in the context of my internship at Progton Software Pvt. Ltd.
+
+### Contribution
+
+- Supported mobile application development.
+- Contributed to AI-powered application workflows.
+- Gained exposure to application deployment.
+
+**Technology focus:** Flutter · AI Application Development
+
+---
+
+<div align="center">
+
+# 03 — JAWAHAR CONSULTANTS
+
+### FULL-STACK CONSULTANCY WEB PLATFORM
+
+<a href="https://github.com/mdfawazsheriff/JawaharConsultants">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+A consultancy website project focused on improving digital presence, service discovery and customer enquiry workflows.
+
+### Technology
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+
+**Focus:** Frontend development · Backend integration · REST APIs · Customer-facing web applications
+
+---
+
+## TECHNOLOGY STACK
 
 <details open>
 <summary><b>01 — Programming Languages</b></summary>
@@ -222,7 +235,7 @@ Contributed to the development of SmartLedger.AI mobile applications.
 
 ---
 
-## 05 / ACADEMIC BACKGROUND
+## ACADEMIC BACKGROUND
 
 **B.Tech — Artificial Intelligence and Machine Learning**
 
@@ -232,23 +245,19 @@ My academic foundation provides the basis for exploring intelligent systems, sof
 
 ---
 
-## 06 / ENGINEERING PRINCIPLES
-
-<div align="center">
+## ENGINEERING PRINCIPLES
 
 | PRINCIPLE | WHAT IT MEANS |
 |:---|:---|
 | Clarity | Understand before implementing |
 | Reliability | Validate and test what you build |
-| Practicality | Solve real problems, not imaginary ones |
+| Practicality | Solve real problems |
 | Ownership | Take responsibility for the product |
 | Iteration | Improve through feedback and evidence |
 
-</div>
-
 ---
 
-## 07 / GITHUB ACTIVITY
+## GITHUB ACTIVITY
 
 <div align="center">
 
@@ -266,7 +275,7 @@ My academic foundation provides the basis for exploring intelligent systems, sof
 
 ---
 
-## 08 / LET'S CONNECT
+## LET'S CONNECT
 
 <div align="center">
 
