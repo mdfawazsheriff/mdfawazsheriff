@@ -1,239 +1,293 @@
 
+<!--
+  MOHAMMED FAWAZ SHERIFF
+  Personal Engineering Portfolio
+-->
+
 <div align="center">
 
-# MOHAMMED FAWAZ SHERIFF
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09131F,50:123B45,100:087F70&height=220&section=header&text=MOHAMMED%20FAWAZ%20SHERIFF&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20SOFTWARE%20%7C%20PRODUCTS&descSize=13&descAlignY=60&descColor=C0E7DE" alt="Fawaz engineering portfolio banner"/>
 
-### AI ENGINEER · SOFTWARE DEVELOPER · PRODUCT BUILDER
+# AI ENGINEER · PRODUCT BUILDER
 
-Building intelligent applications and practical software products through AI, engineering and product thinking.
+**Engineering intelligent systems. Turning complex problems into practical products.**
 
 <br/>
 
 <a href="https://github.com/mdfawazsheriff">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/mohammed-fawaz-sheriff-a09628232/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mdfawazsheriff01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-555555?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-087F70?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+[ABOUT](#-the-engineer) · [EXPERIENCE](#-experience) · [PROJECTS](#-selected-engineering-work) · [TECHNOLOGY](#-technology-stack) · [CONTACT](#-lets-connect)
 
 </div>
 
 ---
 
-## PROFILE
+## 01 / THE ENGINEER
 
-I'm a B.Tech graduate in Artificial Intelligence and Machine Learning, interested in building software products that combine intelligent technologies with practical business applications.
+I'm a graduate in **Artificial Intelligence and Machine Learning** with an interest in building software that connects intelligent technology with real-world business needs.
 
-My interests span AI-enabled application development, backend engineering, full-stack development and product innovation.
+I work across the intersection of:
 
-I enjoy working across the technical and business sides of product development — understanding problems, translating requirements into solutions, developing applications and improving the overall user experience.
+| ENGINEERING | PRODUCT | BUSINESS |
+|:---|:---|:---|
+| AI and ML applications | Problem identification | Requirements understanding |
+| Backend systems and APIs | Product development | Business-oriented thinking |
+| Full-stack applications | User experience | Technology integration |
+| Automation | Iterative development | Practical solutions |
 
-**What I bring:**
+My approach is simple:
 
-- AI and Generative AI application development interests.
-- Backend development and API engineering.
-- Full-stack and mobile application development experience.
-- Product-oriented problem solving.
-- An interest in connecting technology with business requirements.
+> Understand the problem. Design the solution. Engineer the product. Test it. Improve it.
 
-**Currently focused on:** AI engineering, intelligent automation, backend systems and building usable software products.
-
----
-
-## TECHNICAL TOOLKIT
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,dart" alt="Python, JavaScript and Dart"/>
-</p>
-
-### AI & Applied AI
-
-<p>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
-</p>
-
-### Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs" alt="Django, FastAPI and Node.js"/>
-</p>
-
-### Frontend & Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter" alt="React, Vite, Tailwind and Flutter"/>
-</p>
-
-### Databases & Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,postman,vscode" alt="PostgreSQL, SQLite, Git, GitHub, Postman and VS Code"/>
-</p>
+**Professional interests:** AI Engineering · Applied Generative AI · Backend Development · Full-Stack Engineering · Technical Product Development
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## 02 / SELECTED ENGINEERING WORK
 
-### AI Intern | Progton Software Pvt. Ltd.
-
-**Duration:** 6 Months
-
-Contributed to the development of SmartLedger.AI mobile applications.
-
-**Responsibilities and exposure:**
-
-- Supported AI-powered mobile application development.
-- Contributed to application development workflows.
-- Gained exposure to application deployment processes.
-- Worked in a software development environment.
-
-**Technical focus:** AI Engineering · Flutter · Mobile Application Development
-
----
-
-## SELECTED ENGINEERING PROJECTS
+<div align="center">
 
 ### 01 — NEXUS CLIP
 
-**AI-Assisted Video Clipping Platform**
+**AI-ASSISTED VIDEO INTELLIGENCE PLATFORM**
 
-[Repository →](https://github.com/mdfawazsheriff/nexus-clip)
+<a href="https://github.com/mdfawazsheriff/nexus-clip">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
+</a>
 
-A project in development focused on helping creators transform long-form videos into short-form content.
+</div>
 
-The product direction includes media ingestion, transcription, intelligent moment discovery and creator-controlled clip editing.
+A platform in development that aims to transform long-form videos into short-form content for creators, streamers and podcasters.
 
-**Implemented in v0.1:**
+**Engineering implementation — v0.1**
 
-- FastAPI application health endpoint.
-- Chunked video upload with configurable size limits.
-- File extension validation.
-- Safe, collision-resistant storage naming.
-- FFprobe metadata extraction.
-- FFmpeg audio extraction utility producing 16 kHz mono WAV.
-- Provider-neutral transcription interface.
-- Unit tests for upload validation and storage paths.
+| Component | Implementation |
+|:---|:---|
+| API layer | FastAPI health endpoint |
+| Video ingestion | Chunked uploads |
+| File handling | Extension validation and safe storage names |
+| Metadata | FFprobe extraction |
+| Audio processing | FFmpeg · 16 kHz mono WAV |
+| Transcription architecture | Provider-neutral interface |
+| Testing | Upload validation and storage-path unit tests |
 
 **Technology**
 
-`Python` `FastAPI` `FFmpeg` `FFprobe`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
-**Engineering focus**
+**Engineering roadmap**
 
-Media processing · API development · File validation · Testing
+- [x] Video upload and validation
+- [x] Media metadata extraction
+- [x] Audio extraction utility
+- [x] Transcription interface
+- [ ] Whisper transcription implementation
+- [ ] Context-aware moment detection
+- [ ] Clip scoring and boundary refinement
+- [ ] Vertical video rendering and subtitles
+- [ ] Browser-based editing studio
 
-**Current status:** Engineering foundation implemented. Automated transcription, candidate-moment detection, clip rendering and browser-based editing remain planned features.
+<sub>Current status: engineering foundation. Roadmap items are not represented as completed capabilities.</sub>
 
 ---
 
-### 02 — SmartLedger.AI
+<div align="center">
 
-**AI-Powered Mobile Application**
+### 02 — SMARTLEDGER.AI
 
-Developed as part of my internship at Progton Software Pvt. Ltd.
+**AI-POWERED MOBILE APPLICATION**
 
-**Contribution:**
+</div>
+
+An AI-powered mobile application project developed in the context of my internship at Progton Software Pvt. Ltd.
+
+**My contribution**
 
 - Supported mobile application development.
 - Contributed to AI-powered application workflows.
-- Gained experience with application development and deployment.
+- Gained exposure to application development and deployment.
 
 **Technology focus:** Flutter · AI Application Development
 
 ---
 
-### 03 — Jawahar Consultants
-
-**Full-Stack Consultancy Website**
-
-[Repository →](https://github.com/mdfawazsheriff/JawaharConsultants)
-
-A full-stack website project focused on improving digital presence, service discovery and customer enquiries.
-
-**Technology**
-
-`React` `Tailwind CSS` `Django` `Django REST Framework`
-
-**Engineering focus**
-
-Frontend development · Backend integration · REST APIs · Web application development
-
----
-
-## EDUCATION
-
-**Bachelor of Technology (B.Tech)**
-
-Artificial Intelligence and Machine Learning
-
-Presidency University
-
----
-
-## ENGINEERING INTERESTS
-
-| Area | Focus |
-|---|---|
-| Artificial Intelligence | Practical AI-powered applications |
-| Generative AI | LLM-powered product experiences |
-| Backend Engineering | APIs and application architecture |
-| Full-Stack Development | End-to-end application development |
-| Product Engineering | Problem solving and product execution |
-| Intelligent Automation | Improving workflows through software |
-
----
-
-## GITHUB ACTIVITY
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdfawazsheriff&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
+### 03 — JAWAHAR CONSULTANTS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfawazsheriff&layout=compact&hide_border=true&theme=transparent" alt="GitHub language statistics"/>
+**FULL-STACK CONSULTANCY WEB PLATFORM**
+
+<a href="https://github.com/mdfawazsheriff/JawaharConsultants">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
-<sub>Repository language distribution is not a measure of individual technical proficiency. Statistics depend on public repository activity and external service availability.</sub>
+A consultancy website project designed around service discovery, digital presence and customer enquiry workflows.
+
+**Technology**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+
+**Focus:** Frontend development · Backend integration · REST APIs · Customer-facing web applications
 
 ---
 
-## PROFESSIONAL INTERESTS
+## 03 / EXPERIENCE
 
-I'm interested in opportunities involving:
+### AI INTERN — PROGTON SOFTWARE PVT. LTD.
 
-- AI / Machine Learning Engineering
-- AI Application Development
-- Backend and Full-Stack Software Engineering
-- Technical Product Development
-- Technology and Business Integration
+<sub>6-MONTH INTERNSHIP</sub>
 
-I value opportunities where I can contribute technically, understand business problems and grow through building real-world products.
+Contributed to the development of SmartLedger.AI mobile applications.
+
+- Supported AI-powered mobile application development.
+- Participated in application development workflows.
+- Gained exposure to software deployment processes.
+- Worked in a software development environment.
+
+**Focus:** Artificial Intelligence · Flutter · Application Development
 
 ---
 
-## CONTACT
+## 04 / TECHNOLOGY STACK
+
+<details open>
+<summary><b>01 — Programming Languages</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>02 — Artificial Intelligence</b></summary>
+<br/>
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-7952B3?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>03 — Backend & APIs</b></summary>
+<br/>
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>04 — Frontend & Mobile</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>05 — Databases & Developer Tools</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+---
+
+## 05 / ACADEMIC BACKGROUND
+
+**B.Tech — Artificial Intelligence and Machine Learning**
+
+Presidency University
+
+My academic foundation provides the basis for exploring intelligent systems, software development and applied AI.
+
+---
+
+## 06 / ENGINEERING PRINCIPLES
 
 <div align="center">
 
-### LET'S BUILD SOMETHING USEFUL.
+| PRINCIPLE | WHAT IT MEANS |
+|:---|:---|
+| Clarity | Understand before implementing |
+| Reliability | Validate and test what you build |
+| Practicality | Solve real problems, not imaginary ones |
+| Ownership | Take responsibility for the product |
+| Iteration | Improve through feedback and evidence |
 
-Open to meaningful conversations, technical collaborations and professional opportunities.
+</div>
 
-<br/>
+---
 
-<a href="https://github.com/mdfawazsheriff">GitHub</a> ·
-<a href="https://www.linkedin.com/in/mohammed-fawaz-sheriff-a09628232/">LinkedIn</a> ·
-<a href="mailto:mdfawazsheriff01@gmail.com">Email</a>
+## 07 / GITHUB ACTIVITY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdfawazsheriff&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfawazsheriff&layout=compact&hide_border=true&theme=transparent" alt="GitHub language distribution"/>
 
 <br/><br/>
 
-**ENGINEERING · INNOVATION · EXECUTION**
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdfawazsheriff&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity"/>
+
+</div>
+
+<sub>External statistics are supplementary. They reflect public repository activity and do not independently measure engineering proficiency.</sub>
+
+---
+
+## 08 / LET'S CONNECT
+
+<div align="center">
+
+# BUILDING THE NEXT THING.
+
+Interested in AI engineering, software development, product innovation and meaningful technical collaborations.
+
+<br/>
+
+<a href="mailto:mdfawazsheriff01@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT_ME-087F70?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-fawaz-sheriff-a09628232/">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**ENGINEERING WITH PURPOSE. BUILDING WITH INTENT.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087F70,50:123B45,100:09131F&height=100&section=footer" alt="Portfolio footer"/>
 
 </div>
